@@ -1,0 +1,17 @@
+{
+    "name": "ipssi/zombies-demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Dutrion",
+            "email": "thomas@engineor.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Game\\": "src/"
+        }
+    }
+}
